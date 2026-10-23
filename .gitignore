@@ -1,0 +1,4 @@
+# never commit the raw newsletter source files or the task state marker
+*.eml
+*.pdf
+.news_summary_state.json
